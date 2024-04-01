@@ -7,6 +7,7 @@ type EmpType = {
   name: string;
   age: number;
 };
+/////hello there mnfr  femknfef
 function App() {
   const [empdetails, setEmpdetails] = useState<EmpType>({
     name: "amit",
